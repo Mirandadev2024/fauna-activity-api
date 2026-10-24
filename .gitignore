@@ -19,3 +19,7 @@ Thumbs.db
 
 #dados sensíveis
 registros_fauna.xlsx
+
+#arquivos temporários
+~$*.xlsx
+~$*.xls
