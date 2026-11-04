@@ -23,3 +23,6 @@ registros_fauna.xlsx
 #arquivos temporários
 ~$*.xlsx
 ~$*.xls
+
+#Deploy posterior
+Procfile
