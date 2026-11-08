@@ -15,10 +15,6 @@ from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse, StreamingResponse
 from pydantic import BaseModel
 
-print("Hello world")
-print("Hllo wrold 2")
-print("Hello")
-
 app = FastAPI(
     title="Fauna API",
     description="Análise temporal de registros de fauna",
