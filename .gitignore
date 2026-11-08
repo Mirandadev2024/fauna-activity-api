@@ -4,6 +4,7 @@ venv/
 
 # Python
 __pycache__/
+.pytest_cache/
 *.py[cod]
 
 # Configurações locais
@@ -26,7 +27,5 @@ registros_fauna.xlsx
 
 #Deploy posterior
 Procfile
-
-.github/workflows/
 
 workflows/

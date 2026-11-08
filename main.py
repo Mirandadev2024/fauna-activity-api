@@ -16,6 +16,7 @@ from fastapi.responses import HTMLResponse, StreamingResponse
 from pydantic import BaseModel
 
 print("Hello world")
+print("Hllo wrold 2")
 
 app = FastAPI(
     title="Fauna API",
