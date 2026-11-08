@@ -17,6 +17,7 @@ from pydantic import BaseModel
 
 print("Hello world")
 print("Hllo wrold 2")
+print("Hello")
 
 app = FastAPI(
     title="Fauna API",
