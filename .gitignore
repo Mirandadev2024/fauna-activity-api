@@ -28,4 +28,6 @@ registros_fauna.xlsx
 #Deploy posterior
 Procfile
 
+tests/
+
 workflows/
