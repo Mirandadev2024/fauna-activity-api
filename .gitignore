@@ -26,3 +26,7 @@ registros_fauna.xlsx
 
 #Deploy posterior
 Procfile
+
+.github/workflows/
+
+workflows/
